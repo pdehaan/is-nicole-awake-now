@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "name": "is-nicole-awake",
+  "name": "is-nicolle-awake",
   "builds": [
     { "src": "package.json", "use": "@now/static-build" }
   ],
   "public": true,
-  "alias": "is-nicole-awake"
+  "alias": "is-nicolle-awake"
 }

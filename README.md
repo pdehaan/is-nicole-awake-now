@@ -1,3 +1,3 @@
-# Is Nicole Awake Now?
+# Is Nicolle Awake Now?
 
 :zzz:
