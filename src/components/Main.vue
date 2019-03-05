@@ -1,7 +1,7 @@
 <template>
   <main class="main">
     <header>
-      <h1 v-resize-text>Is Nicole Awake Now?</h1>
+      <h1 v-resize-text>Is Nicolle Awake Now?</h1>
     </header>
     <p
       id="msg"
