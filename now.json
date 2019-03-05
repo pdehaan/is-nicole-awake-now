@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "is-nicole-awake",
+  "builds": [
+    { "src": "package.json", "use": "@now/static-build" }
+  ],
+  "public": true,
+  "alias": "is-nicole-awake",
+  "type": "npm"
+}
