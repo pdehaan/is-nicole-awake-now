@@ -47,7 +47,8 @@ export default {
 
 <style scoped>
 main {
-  font-family: "Comic Sans MS", cursive;
+  /* per https://stackoverflow.com/questions/7908973/comic-sans-missing-from-ios-build */
+  font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", sans-serif;
 }
 header h1 {
   color: #c9f;
